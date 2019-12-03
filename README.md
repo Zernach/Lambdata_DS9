@@ -1,2 +1,2 @@
-# Lambdata_DS9
+# Lambdata_Zernach
 a collection of data science tools
